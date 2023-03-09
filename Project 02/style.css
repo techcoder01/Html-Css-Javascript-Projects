@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    background: linear-gradient(to left bottom , rgb(255, 224, 224) , lightblue, rgb(255, 253, 224));
+    background: lightblue;
     color: darkgreen;
     display: flex;
     min-height: 100vh;
@@ -30,15 +30,17 @@ body{
     padding: 20px 0;
 }
 
+
 .rating{
     cursor: pointer;
-    padding: 20px;
+    padding: 10px;
     margin: 10px 5px;
 }
 
 
-.rating:hover ,
-.rating.active{
+.rating:hover,
+.rating.active
+{
     background-color: darkseagreen;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, .3);
@@ -51,7 +53,7 @@ body{
     color: aliceblue;
     border: 0;
     margin: 10px;
-    padding: 12px 40px;
+    padding: 12px 30px;
     border-radius: 4px;
     cursor: pointer;
 }
