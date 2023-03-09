@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    background: lightblue;
+    background: linear-gradient(to left bottom , rgb(110, 187, 232), rgb(183, 152, 240) , rgb(230, 224, 255));
     color: darkgreen;
     display: flex;
     min-height: 100vh;
