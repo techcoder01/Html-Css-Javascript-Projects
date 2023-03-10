@@ -22,6 +22,8 @@ The design of the Feedback-UI is both visually appealing and user-friendly. The 
 
 ### Description:
 
+Website Link : https://techcoder01.github.io/English-Dictionary/
+
 I have created an English dictionary using **HTML, CSS, JavaScript, and a free dictionary API.** This dictionary allows users to easily search for a word and receive its meaning and pronunciation in audio format.
 
 The dictionary is designed to be user-friendly and easy to navigate. Users can simply **type a word into the search bar** and the dictionary will generate the **definition and an audio clip of the word's pronunciation.**
