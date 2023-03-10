@@ -18,4 +18,17 @@ The UI includes a variety of features, such as buttons, forms, and text boxes, t
 
 The design of the Feedback-UI is both visually appealing and user-friendly. The use of appropriate colors, icons, and typography helps to make the UI easy to navigate and understand. Overall, Feedback-UI provides an effective way to gather feedback from users, which can be valuable for improving products or services.
 
+# Project 03 : English Dictionary
+
+### Description:
+
+I have created an English dictionary using **HTML, CSS, JavaScript, and a free dictionary API.** This dictionary allows users to easily search for a word and receive its meaning and pronunciation in audio format.
+
+The dictionary is designed to be user-friendly and easy to navigate. Users can simply **type a word into the search bar** and the dictionary will generate the **definition and an audio clip of the word's pronunciation.**
+
+The data used in the dictionary is powered by a free API, ensuring that the information provided is accurate and up-to-date. The API is regularly updated with new words and definitions, so users can always rely on the dictionary to provide the most current information.
+
+Overall, this English dictionary is a useful tool for anyone who needs to look up the definition and pronunciation of English words quickly and easily. With its intuitive design and advanced features, it is an excellent resource for language learners and professionals alike.
+
+
 
